@@ -1,7 +1,7 @@
 ```js
 let dev = {
   name: "Vinícios Costa",
-  age: 28,
+  age: 29,
   role: "Web Developer",
   technologies: [
     "Typescript",
@@ -10,7 +10,6 @@ let dev = {
     "Next.js",
     "Vue",
     "Nuxt",
-    "C#",
     "Tailwind CSS",
     "Node.js",
     "Express",
